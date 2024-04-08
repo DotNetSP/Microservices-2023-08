@@ -10,7 +10,7 @@ Número de participantes: **40 pessoas**
 Apresentações/talks que aconteceram durante o evento:
 * **Arquiteturas baseadas em Microsserviços e opcões para implementação no Azure - Renato Groffe (Microsoft MVP, MTAC)**
 
-* **Desenvolvendo o primeiro Microsserviço em 30 minutos usando C# e Devprime - Ramon Durães - Ramon Durães (Microsoft MVP Reconnect)**
+* **Desenvolvendo o primeiro Microsserviço em 30 minutos usando C# e Devprime - Ramon Durães (Microsoft MVP Reconnect)**
 
 Tecnologias abordadas: **Azure App Service, Azure Functions, Azure Container Apps, Azure Kubernetes Service, .NET 7, ASP.NET Core, Linux, Kafka, RabbitMQ**
 
